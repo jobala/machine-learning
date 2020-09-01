@@ -4,9 +4,16 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+yapf = "*"
 
 [packages]
 numpy = "*"
+flake8 = "*"
+jupyter = "*"
+matplotlib = "*"
+pandas = "*"
+ipywidgets = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
