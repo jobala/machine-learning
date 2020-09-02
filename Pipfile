@@ -14,6 +14,7 @@ matplotlib = "*"
 pandas = "*"
 ipywidgets = "*"
 ipykernel = "*"
+ipympl = "*"
 
 [requires]
 python_version = "3.8"
